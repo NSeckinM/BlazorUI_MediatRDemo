@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUI_MediatRDemo", "BlazorUI_MediatRDemo\BlazorUI_MediatRDemo.csproj", "{0E435FA0-412C-48A3-BD3D-7C1FBC1B0A68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{C177EAE2-227E-42AE-BF4D-D50FD5AC96DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0E435FA0-412C-48A3-BD3D-7C1FBC1B0A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E435FA0-412C-48A3-BD3D-7C1FBC1B0A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E435FA0-412C-48A3-BD3D-7C1FBC1B0A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C177EAE2-227E-42AE-BF4D-D50FD5AC96DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C177EAE2-227E-42AE-BF4D-D50FD5AC96DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C177EAE2-227E-42AE-BF4D-D50FD5AC96DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C177EAE2-227E-42AE-BF4D-D50FD5AC96DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
